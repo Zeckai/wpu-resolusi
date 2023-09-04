@@ -1,5 +1,7 @@
 Rencana kedepan
 -java sript
+ * ES5
+ * Framework javasript
 -PHP Framwork
 - interview
 -Jadi Normal
