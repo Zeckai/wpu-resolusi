@@ -1,5 +1,5 @@
 Rencana kedepan
--java sript
+-java script
  * ES5
  * Framework javasript
 -PHP Framwork
