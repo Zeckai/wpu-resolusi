@@ -4,6 +4,7 @@ Rencana kedepan
  * Framework javasript
 ^Vue
 -PHP Framwork
+^ Laravel
 - interview
 -Jadi Normal
 -Phython
