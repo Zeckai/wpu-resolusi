@@ -2,6 +2,8 @@ Rencana kedepan
 -java script
  * ES5
  * Framework javasript
+^Vue
 -PHP Framwork
 - interview
 -Jadi Normal
+-Phython
